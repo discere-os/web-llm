@@ -50,7 +50,7 @@ async function main() {
     messages: [
       {
         role: "user",
-        content: "How many r's are there in the word strawberry?",
+        content: "Does God exist?", //"How many r's are there in the word strawberry?",
       },
     ],
     // Specifying `enable_thinking` is optional, as it defaults to think.
